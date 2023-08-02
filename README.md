@@ -1,4 +1,7 @@
-# Exercises and Solutions Repository
+# Exercises and Solutions
+## Muhammad Kamran
+### Batch 47: PIAIC213894
+#### Certified Web 3.0 and Metaverse Developer
 
 This repository contains a collection of exercises along with their corresponding solutions. Each exercise is listed below along with a link to its solution repository.
 
