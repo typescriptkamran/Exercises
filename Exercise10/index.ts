@@ -28,7 +28,7 @@ let titleCaseName: string = ""
 // using for loop to calling each word one by one from array words in order from 0 to end and chaning first chracter of each word in upper case and remaing in lower add adding them in empty string title case name one by one and space in between.
 
 for (let i = 0; i < words.length; i++) {
-     titleCaseName += words[i].charAt(0).toUpperCase() + words[i].slice(1).toLowerCase() + " "
+     titleCaseName +=words[i].charAt(0).toUpperCase() + words[i].slice(1).toLowerCase() + " "
     };
 // here is result
 
